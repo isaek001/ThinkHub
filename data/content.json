@@ -1,0 +1,110 @@
+{
+  "site": {
+    "name": "Think Hub",
+    "tagline": "Create. Collaborate. Chill.",
+    "heroTitle": "Connecting young minds, launching big ideas in Jos.",
+    "heroText": "Training, desks, a studio and a gallery under one roof — so a young creative can take an idea from sketch to finished work, and send it far beyond Jos.",
+    "about": "Think Hub provides young people a platform to bring their creative ideas to life, whatever the constraints. Serving the city of Jos, we broaden the perspective of talented youth and help them create content that transcends their locality.",
+    "mission": "Young creatives often lack affordable hands-on training and professional equipment. We bring both under one roof: workshops, online courses, and a well-equipped space to practise and produce.",
+    "email": "",
+    "phone": "",
+    "address": "Jos, Plateau State, Nigeria",
+    "instagram": "",
+    "twitter": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "stats": [
+    {
+      "label": "Creatives in the community",
+      "value": "80"
+    },
+    {
+      "label": "Partnerships",
+      "value": "4"
+    },
+    {
+      "label": "Talents trained",
+      "value": "10"
+    }
+  ],
+  "pillars": [
+    {
+      "title": "Create",
+      "text": "A platform to brainstorm, develop and refine creative ideas, regardless of limitations."
+    },
+    {
+      "title": "Collaborate",
+      "text": "We bring young creatives together to share ideas, learn from each other and build a creative community in Jos."
+    },
+    {
+      "title": "Chill",
+      "text": "Creating should be fun. Games, activities and a supportive atmosphere keep people motivated."
+    }
+  ],
+  "spaces": [
+    {
+      "icon": "Rocket",
+      "title": "Incubator",
+      "text": "Programs, mentorship and demo days that help startups grow."
+    },
+    {
+      "icon": "Monitor",
+      "title": "Coworking Space",
+      "text": "Daily, monthly and yearly access, dedicated desks and event space."
+    },
+    {
+      "icon": "Palette",
+      "title": "Art Gallery (Web3)",
+      "text": "Exhibitions, artist talks and digital art sold as NFTs."
+    },
+    {
+      "icon": "MicVocal",
+      "title": "Recording Studio",
+      "text": "Studio rental, production, mixing, mastering and music classes."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Consulting",
+      "text": "Business strategy, web, app and blockchain consulting, plus training."
+    }
+  ],
+  "programs": [
+    {
+      "title": "She Creates",
+      "dates": "8th – 25th June",
+      "status": "Past edition",
+      "text": "A free two-week workshop training women in content creation: content strategy, writing that converts, and production (voice-over, video and editing). Every participant finishes with a real content project.",
+      "link": ""
+    }
+  ],
+  "team": [
+    {
+      "name": "Shamsiyyah",
+      "role": "Chief Operating Officer"
+    },
+    {
+      "name": "Iyanuoluwa",
+      "role": "Creative Director, Incubation & Training"
+    },
+    {
+      "name": "Victor",
+      "role": "Art Gallery Lead"
+    },
+    {
+      "name": "Simon",
+      "role": "Social Media Lead"
+    },
+    {
+      "name": "Daniel",
+      "role": "Recording Studio Lead"
+    },
+    {
+      "name": "Arron",
+      "role": "Video Editor"
+    }
+  ],
+  "messages": [],
+  "seq": 1
+}
